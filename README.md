@@ -1,3 +1,16 @@
+# my-portfolio
+# Author
+John Gatheru
+
+# -----------------------------------------------------------------
+This is my first live web page on github pages.
+The web page has every thing you need to know about me.
+# contact 
+johngatheru18@gmail.com
+# Live page
+
+
+https://csi254.github.io/my-portfolio/
 
 
 # MIT License
